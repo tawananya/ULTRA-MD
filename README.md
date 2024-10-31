@@ -42,7 +42,7 @@
 
 Fork Repo & Just Replace Your Number
 
-globalbotNumber = '923051391007'
+globalbotNumber = 0788796686
 
 In config.js And It Will Directly Shows You A Pairing Code At The End Of Deployment, Pair And Enjoy.
 
